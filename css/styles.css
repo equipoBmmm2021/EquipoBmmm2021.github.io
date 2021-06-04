@@ -10443,10 +10443,15 @@ align-items: center;
   src: url(Fuente/Madjoe.ttf);
 }
 
+@font-face{
+  font-family: Typeface;
+  src: url(Fuente/Typeface.otf);
+}
 
-
-
-
+@font-face{
+  font-family: Madjoe;
+  src: url(Fuente/Madjoe.otf);
+}
 
 
 
