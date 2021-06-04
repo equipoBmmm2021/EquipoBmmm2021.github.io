@@ -10435,22 +10435,22 @@ align-items: center;
 
 @font-face{
   font-family: Typeface;
-  src: url(assets/Fuente/Typeface.ttf);
+  src: url('assets/Fuente/Typeface.ttf');
 }
 
 @font-face{
   font-family: Madjoe;
-  src: url(assets/Fuente/Madjoe.ttf);
+  src: url('assets/Fuente/Madjoe.ttf');
 }
 
 @font-face{
   font-family: Typeface;
-  src: url(assets/Fuente/Typeface.otf);
+  src: url('assets/Fuente/Typeface.otf');
 }
 
 @font-face{
   font-family: Madjoe;
-  src: url(assets/Fuente/Madjoe.otf);
+  src: url('assets/Fuente/Madjoe.otf');
 }
 
 
