@@ -10454,11 +10454,11 @@ align-items: center;
 }
 */
 @font-face {
-  font-family: "Madjoe";
+  font-family: 'Madjoe';
   src: url('Fuente/Madjoe.otf') format('truetype');
 }
 @font-face {
-  font-family: "Madjoe";
+  font-family: 'Madjoe';
   src: url('Fuente/Madjoe.ttf') format('truetype');
 }
 
