@@ -10432,7 +10432,7 @@ align-items: center;
 
 
 /*Fuente*/
-
+/*
 @font-face{
   font-family: "Typeface";
   src: url('assets/Fuente/Typeface.ttf');
@@ -10452,6 +10452,9 @@ align-items: center;
   font-family: "Madjoe";
   src: url('assets/Fuente/Madjoe.otf');
 }
-
-
+*/
+@font-face {
+  font-family: "Madjoe";
+  src: url('assets/Fuente/Madjoe.otf') format('truetype');
+}
 
